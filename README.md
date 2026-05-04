@@ -113,3 +113,8 @@ http://localhost:8501
 - **Lỗi StreamlitSecretNotFoundError**: chạy từ root repo hoặc đảm bảo `frontend\.streamlit\secrets.toml` tồn tại.
 - **Không truy cập được `localhost:8000`**: backend chưa chạy hoặc bị crash do thiếu secrets.
 - **Chat lỗi 500**: Ollama chưa chạy hoặc sai `OLLAMA_HOST`.
+
+## 🎬 Video Demo
+
+Xem video demo: [https://youtu.be/42ebPqrAQf8?si=PN5JxtC84FKEaYLH](https://youtu.be/42ebPqrAQf8?si=PN5JxtC84FKEaYLH)
+
